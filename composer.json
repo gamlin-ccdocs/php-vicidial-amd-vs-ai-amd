@@ -1,0 +1,31 @@
+{
+    "name": "vicistack/vicidial-amd-vs-ai-amd",
+    "description": "VICIdial Answering Machine Detection vs AI-Based AMD: Which Is Better?",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "vicidial",
+        "asterisk",
+        "call-center",
+        "voip",
+        "predictive-dialer",
+        "vicidial",
+        "amd",
+        "amd"
+    ],
+    "homepage": "https://vicistack.com/blog/vicidial-amd-vs-ai-amd/",
+    "authors": [
+        {
+            "name": "ViciStack",
+            "homepage": "https://vicistack.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ViciStack\\VicidialAmdVsAiAmd\\": "src/"
+        }
+    }
+}
